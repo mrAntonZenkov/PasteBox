@@ -1,0 +1,3 @@
+app:
+  host: http://pastebox.com
+  public_list_size: 10
